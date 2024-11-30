@@ -74,7 +74,7 @@ This project requires the following Python libraries:
    ```
 2. Launch the app locally with:
     ```bash
-   streamlit run app.py
+   streamlit run car_app.py
    ```
 ---
 
